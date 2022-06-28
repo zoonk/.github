@@ -6,7 +6,7 @@ especially the [about us section](https://github.com/zoonk/handbook/tree/main/ab
 
 ## Translations
 
-[Português (Brasil)](../pt-br/README.md)
+[Português (Brasil)](https://github.com/zoonk/.github/blob/main/pt-br/README.md)
 
 ## Get started
 
