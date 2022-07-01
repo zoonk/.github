@@ -8,9 +8,7 @@ para entender melhor o que fazemos e por que estamos trabalhando nisso.
 ## Para começar
 
 - [Como ajudar](https://github.com/zoonk/manual/blob/main/CONTRIBUTING.md)
-- [Projetos](https://github.com/orgs/zoonk/projects?type=beta)
-- [Repositórios](https://github.com/orgs/zoonk/repositories)
-- [Equipes](https://github.com/orgs/zoonk/teams)
+- [Tarefas](https://github.com/orgs/zoonk/projects/11)
 
 ## Ajuda
 
