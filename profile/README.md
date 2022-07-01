@@ -11,9 +11,7 @@ especially the [about us section](https://github.com/zoonk/handbook/tree/main/ab
 ## Get started
 
 - [How to contribute](https://github.com/zoonk/handbook/blob/main/CONTRIBUTING.md)
-- [Projects](https://github.com/orgs/zoonk/projects?type=beta)
-- [Repositories](https://github.com/orgs/zoonk/repositories) 
-- [Teams](https://github.com/orgs/zoonk/teams)
+- [Tasks](https://github.com/orgs/zoonk/projects/11)
 
 ## Help
 
