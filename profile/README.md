@@ -8,3 +8,25 @@
   We're developing open-source tools for education to empower a new generation of builders. <br />
   If we can fix education, then we can fix everything else.
 </p>
+
+<p align="center">
+  <a href="https://zoonk.org">Website</a>
+  .
+  <a href="https://github.com/orgs/zoonk/projects/11">Roadmap</a>
+  .
+  <a href="https://github.com/orgs/zoonk/discussions">Community</a>
+</p>
+
+## 🌐 Open-source
+
+- [UneeBee](https://github.com/zoonk/uneebee): Open-source platform to create interactive courses like Duolingo.
+
+## 💡 Products
+
+- [Wikaro](https://wikaro.com) helps **organizations** to engage employees and attract new customers with interactive learning experiences.
+- [Wisek](https://mywisek.com) helps **creators** to earn money selling interactive courses online.
+- [Ikidoo](https://ikidoo.com) helps **teachers** save time preparing your lessons. We provide practical activities compliant with your school's curriculum.
+
+## 💌 Contact
+
+[Start a discussion](https://github.com/orgs/zoonk/discussions/new/choose) in our community forum or send an email to support@zoonk.org.
