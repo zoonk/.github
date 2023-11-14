@@ -5,5 +5,6 @@
 </picture>
 
 <p align="center">
-  We're developing open-source tools for education to empower a new generation of builders. If we can fix education, then we can fix everything else.
+  We're developing open-source tools for education to empower a new generation of builders. <br />
+  If we can fix education, then we can fix everything else.
 </p>
