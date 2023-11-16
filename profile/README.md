@@ -25,7 +25,7 @@
 
 - [Wikaro](https://wikaro.com) helps **organizations** to engage employees and attract new customers with interactive learning experiences.
 - [Wisek](https://mywisek.com) helps **creators** to earn money selling interactive courses online.
-- [Ikidoo](https://ikidoo.com) helps **teachers** save time preparing your lessons. We provide practical activities compliant with your school's curriculum.
+- [Educasso](https://educasso.com) helps **teachers** save time preparing your lessons. We provide practical activities compliant with your school's curriculum.
 
 ## 💌 Contact
 
