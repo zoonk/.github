@@ -53,7 +53,7 @@ We're remote-only. This means we don't have offices and use primarily [asynchron
 
 ## 💌 Contact
 
-[Start a discussion](https://github.com/orgs/zoonk/discussions/new/choose) in our community forum or send an email to support@zoonk.org.
+[Start a discussion](https://github.com/orgs/zoonk/discussions/new/choose) in our community forum or send an email to hello@zoonk.org.
 
 ## 🌟 Sponsors
 
