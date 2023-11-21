@@ -27,6 +27,30 @@
 - [Wisek](https://mywisek.com) helps **creators** to earn money selling interactive courses online.
 - [Educasso](https://educasso.com) helps **teachers** save time preparing your lessons. We provide practical activities compliant with your school's curriculum.
 
+## 🚀 Our mission
+
+Provide high-quality, hands-on and affordable education to every single person on Earth.
+
+## 🔭 Our vision
+
+We want to help build a world where learning is fun, where everyone understands how science works, where we have a new generation of builders solving the world's biggest problems, where open-source and transparency become a key part of our society.
+
+## 🌱 What we value
+
+- **Transparency**: Everything we do is public. We don't have secrets. We're honest, open, direct and we always tell the truth.
+- **Ownership**: We're responsible for our actions. We don't blame others. We're self-organized. We don't have managers. We don't need permission to do things.
+- **Empathy**: We care about people. We don't tolerate discrimination, harassment, and [asshole geniuses](https://www.testgorilla.com/blog/how-to-avoid-the-asshole-genius/).
+- **Quality**: We're proud of our work. We don't ship crap. We care.
+- **Simplicity**: We avoid over-engineering. We don't make things more complicated than they need to be.
+- **Growth**: We're always learning. We don't know everything.
+- **Sharing**: We share our knowledge. We don't keep secrets. We embrace competition.
+- **Collaboration**: We help each other. We control our egos. We don't compete.
+- **Salary equality**: Equal pay for equal jobs.
+
+## 🌍 How we work
+
+We're remote-only. This means we don't have offices and use primarily [asynchronous communication](https://github.com/zoonk/.github/blob/main/how-we-work/communication.md).
+
 ## 💌 Contact
 
 [Start a discussion](https://github.com/orgs/zoonk/discussions/new/choose) in our community forum or send an email to support@zoonk.org.
