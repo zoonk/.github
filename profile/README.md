@@ -30,3 +30,9 @@
 ## 💌 Contact
 
 [Start a discussion](https://github.com/orgs/zoonk/discussions/new/choose) in our community forum or send an email to support@zoonk.org.
+
+## 🌟 Sponsors
+
+We don't have any sponsors yet. Add your brand here by [sponsoring our project](https://github.com/sponsors/wceolin).
+
+- [See all sponsors and supporters](https://zoonk.org/en/sponsors)
