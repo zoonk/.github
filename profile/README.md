@@ -30,7 +30,7 @@
 ## 🌍 How we work
 
 - [Mission, vision, and values](https://zoonk.org/en/about)
-- [Hiring, contributing and partnerships](https://github.com/orgs/zoonk/discussions/9)
+- [Hiring, contributing and partnerships](https://github.com/zoonk/.github/blob/main/how-we-work/hiring.md)
 
 We're remote-only. This means we don't have offices and use primarily [asynchronous communication](https://github.com/zoonk/.github/blob/main/how-we-work/communication.md).
 
