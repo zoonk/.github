@@ -1,6 +1,6 @@
 # Communication
 
-Everything we do is open and transparent. That's one of the reasons we use **asynchronous communication**. We don't want conversations happening behind closed doors. We want everyone to be able to participate and contribute.
+Everything we do is open and transparent. Really. That's one of the reasons we use **asynchronous communication**. We don't want conversations happening behind closed doors. We want everyone to be able to participate and contribute. There are no secrets, no hidden agenda.
 
 Since we all work remotely, being asynchronous is also a way to respect each other's time. We don't want to interrupt each other with messages that can wait.
 
@@ -13,8 +13,6 @@ All communications happen on [GitHub Discussions](https://github.com/orgs/zoonk/
 - Bugs and issues.
 - Marketing strategies.
 - Integration requests.
-
-Keep in mind that we don't do anything confidential because of our open and transparent nature. So, partnerships should also be discussed publicly.
 
 ## Meetings
 
@@ -35,7 +33,7 @@ When you do schedule a meeting, make sure to add an agenda and specify the expec
 
 ## Partnerships
 
-If you have a partnership proposal, send an email to will@zoonk.org explaining what you have in mind. We'll always reply to partnership proposals, even if we're not interested. If we're interested, we may schedule a meeting to discuss the details.
+If you have a partnership proposal, send an email to will@zoonk.org explaining what you have in mind. We'll always reply to partnership proposals, even if we're not interested. If we're interested, we may schedule a meeting to discuss the details. Keep in mind that we don't sign any NDAs and we encourage to discuss partnerships in our [community forum](https://github.com/orgs/zoonk/discussions) too. We prefer to do things in public as much as possible.
 
 ## Vendors
 
