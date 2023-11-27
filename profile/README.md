@@ -42,4 +42,4 @@ We're remote-only. This means we don't have offices and use primarily [asynchron
 
 We don't have any sponsors yet. Add your brand here by [sponsoring our project](https://github.com/sponsors/wceolin).
 
-- [See all sponsors and supporters](https://zoonk.org/en/sponsors)
+- [See all sponsors and supporters](https://github.com/zoonk/uneebee#sponsors)
