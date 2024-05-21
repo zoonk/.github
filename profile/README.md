@@ -21,12 +21,6 @@
 
 - [UneeBee](https://github.com/zoonk/uneebee): Open-source platform to create interactive courses like Duolingo.
 
-## 💡 Products
-
-- [Wikaro](https://wikaro.com) helps **organizations** to engage employees and attract new customers with interactive learning experiences.
-- [Wisek](https://mywisek.com) helps **creators** to earn money selling interactive courses online.
-- [Educasso](https://educasso.com) helps **teachers** save time preparing your lessons. We provide practical activities compliant with your school's curriculum.
-
 ## 🌍 How we work
 
 - [Mission, vision, and values](https://zoonk.org/en/about)
