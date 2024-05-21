@@ -19,7 +19,7 @@
 
 ## 🌐 Open-source
 
-- [UneeBee](https://github.com/zoonk/uneebee): Open-source platform to create interactive courses like Duolingo.
+- [Zoonk](https://github.com/zoonk/zoonk): Open-source platform to create interactive courses like Duolingo.
 
 ## 🌍 How we work
 
@@ -36,4 +36,4 @@ We're remote-only. This means we don't have offices and use primarily [asynchron
 
 We don't have any sponsors yet. Add your brand here by [sponsoring our project](https://github.com/sponsors/wceolin).
 
-- [See all sponsors and supporters](https://github.com/zoonk/uneebee#sponsors)
+- [See all sponsors and supporters](https://github.com/zoonk/zoonk#sponsors)
