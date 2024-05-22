@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://zoonk.org">Website</a>
   .
-  <a href="https://github.com/orgs/zoonk/projects/11">Roadmap</a>
+  <a href="https://github.com/orgs/zoonk/projects">Roadmap</a>
   .
   <a href="https://github.com/orgs/zoonk/discussions">Community</a>
 </p>
