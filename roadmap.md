@@ -17,15 +17,15 @@ This is an overview of the main features and products we have planned. We'll wor
 
 ## v1
 
-- [ ] Google authentication
-- [ ] Apple authentication
-- [ ] Microsoft authentication
-- [ ] REST API
+- [ ] [Google authentication](https://github.com/zoonk/zoonk/issues/153)
+- [ ] [Apple authentication](https://github.com/zoonk/zoonk/issues/154)
+- [ ] [Microsoft authentication](https://github.com/zoonk/zoonk/issues/155)
+- [ ] [REST API](https://github.com/zoonk/zoonk/issues/156)
 - [ ] iOS app
 - [ ] Android app
 - [ ] iPad app
 - [ ] [Editor: Lesson tips](https://github.com/zoonk/zoonk/issues/146)
-- [ ] Editor: Step by step wizard
+- [ ] [Editor: Step by step wizard](https://github.com/zoonk/zoonk/issues/152)
 - [ ] [Editor: Content library](https://github.com/zoonk/zoonk/issues/149)
 - [ ] [Format: Audio](https://github.com/zoonk/zoonk/issues/44)
 - [ ] [Format: Video upload](https://github.com/zoonk/zoonk/issues/140)
@@ -51,6 +51,9 @@ This is an overview of the main features and products we have planned. We'll wor
 - [ ] Meta Quest app
 - [ ] Apple Vision Pro app
 - [ ] Content Library: BNCC (Brazil)
+- [ ] Content Library: National Curriculum (UK)
+- [ ] Content Library: Common Core State Standards (US)
+- [ ] Content Library: Advanced Placement (US)
 
 ## Products
 
