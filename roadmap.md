@@ -8,12 +8,12 @@ This is an overview of the main features and products we have planned. We'll wor
 - [x] Manage students/teachers
 - [x] Guest users
 - [x] Course editor
-- [ ] Course collection
+- [ ] [Course collection](https://github.com/zoonk/zoonk/issues/150)
 - [x] Format: Multiple choice
 - [x] Format: Read-only
 - [x] Format: Image
 - [x] Format: Open-ended question
-- [ ] Format: YouTube embed
+- [ ] [Format: YouTube embed](https://github.com/zoonk/zoonk/issues/139)
 
 ## v1
 
@@ -24,22 +24,26 @@ This is an overview of the main features and products we have planned. We'll wor
 - [ ] iOS app
 - [ ] Android app
 - [ ] iPad app
-- [ ] Editor: Lesson tips
+- [ ] [Editor: Lesson tips](https://github.com/zoonk/zoonk/issues/146)
 - [ ] Editor: Step by step wizard
-- [ ] Editor: Content library 
-- [ ] Format: Audio
-- [ ] Format: Video upload
-- [ ] Format: Open-ended questions (AI Review)
-- [ ] Format: 3D models
-- [ ] Format: Variables
-- [ ] Format: Speech recognition
-- [ ] Format: Connect to external API
-- [ ] Lesson: Questions
+- [ ] [Editor: Content library](https://github.com/zoonk/zoonk/issues/149)
+- [ ] [Format: Audio](https://github.com/zoonk/zoonk/issues/44)
+- [ ] [Format: Video upload](https://github.com/zoonk/zoonk/issues/140)
+- [ ] [Format: Open-ended questions (AI Review)](https://github.com/zoonk/zoonk/issues/42)
+- [ ] [Format: 3D models](https://github.com/zoonk/zoonk/issues/143)
+- [ ] [Format: Variables](https://github.com/zoonk/zoonk/issues/124)
+- [ ] [Format: Fill-in the blank](https://github.com/zoonk/zoonk/issues/142)
+- [ ] [Format: Drag and drop](https://github.com/zoonk/zoonk/issues/141)
+- [ ] [Format: Speech recognition](https://github.com/zoonk/zoonk/issues/148)
+- [ ] [Lesson: Questions](https://github.com/zoonk/zoonk/issues/147)
+- [ ] [JSON export](https://github.com/zoonk/zoonk/issues/40)
+- [ ] [JSON import](https://github.com/zoonk/zoonk/issues/41)
 
 ## Future
 
-- [ ] On-demand courses
-- [ ] AI Editor
+- [ ] [Format: Connect to external API](https://github.com/zoonk/zoonk/issues/144)
+- [ ] [On-demand courses](https://github.com/zoonk/zoonk/issues/145)
+- [ ] [AI Editor](https://github.com/zoonk/zoonk/issues/45)
 - [ ] AI Editor: Notion integration
 - [ ] AI Editor: Google Drive integration
 - [ ] AI Editor: GitHub integration
