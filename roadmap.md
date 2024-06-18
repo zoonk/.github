@@ -41,6 +41,7 @@ This is an overview of the main features and products we have planned. We'll wor
 
 ## Future
 
+- [ ] Allow schools to sell courses
 - [ ] [Format: Connect to external API](https://github.com/zoonk/zoonk/issues/144)
 - [ ] [On-demand courses](https://github.com/zoonk/zoonk/issues/145)
 - [ ] [AI Editor](https://github.com/zoonk/zoonk/issues/45)
@@ -60,6 +61,5 @@ This is an overview of the main features and products we have planned. We'll wor
 - [x] Zoonk: Platform/white-label for creating interactive courses.
 - [ ] Zoonk Learn: Learn anything using AI.
 - [ ] Zoonk School: Learn science with practical examples of everyday life.
-- [ ] Zoonk Courses: Marketplace for content creators.
 - [ ] Zoonk Devs: API/elements for building customized learning apps.
 - [ ] Zoonk Play: Immersive game where players can learn anything by solving practical missions in the real world.
