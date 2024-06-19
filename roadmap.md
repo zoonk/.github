@@ -49,6 +49,7 @@ This is an overview of the main features and products we have planned. We'll wor
 - [ ] AI Editor: Google Drive integration
 - [ ] AI Editor: GitHub integration
 - [ ] AI Editor: One Drive integration
+- [ ] [Enterprise: Directory sync](https://github.com/zoonk/zoonk/issues/159)
 - [ ] Meta Quest app
 - [ ] Apple Vision Pro app
 - [ ] Content Library: BNCC (Brazil)
