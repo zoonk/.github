@@ -9,11 +9,15 @@ This is an overview of the main features and products we have planned. We'll wor
 - [x] Guest users
 - [x] Course editor
 - [ ] [Course collection](https://github.com/zoonk/zoonk/issues/150)
+- [ ] [Allow schools to sell courses](https://github.com/zoonk/zoonk/issues/166)
 - [x] Format: Multiple choice
 - [x] Format: Read-only
 - [x] Format: Image
 - [x] Format: Open-ended question
 - [ ] [Format: YouTube embed](https://github.com/zoonk/zoonk/issues/139)
+- [ ] [Format: Fill in the blank](https://github.com/zoonk/zoonk/issues/142)
+- [ ] [Format: Drag and drop](https://github.com/zoonk/zoonk/issues/141)
+- [ ] [Format: Word Search](https://github.com/zoonk/zoonk/issues/161)
 
 ## v1
 
@@ -41,7 +45,6 @@ This is an overview of the main features and products we have planned. We'll wor
 
 ## Future
 
-- [ ] Allow schools to sell courses
 - [ ] [Format: Connect to external API](https://github.com/zoonk/zoonk/issues/144)
 - [ ] [On-demand courses](https://github.com/zoonk/zoonk/issues/145)
 - [ ] [AI Editor](https://github.com/zoonk/zoonk/issues/45)
