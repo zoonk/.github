@@ -36,8 +36,6 @@ This is an overview of the main features and products we have planned. We'll wor
 - [ ] [Format: Open-ended questions (AI Review)](https://github.com/zoonk/zoonk/issues/42)
 - [ ] [Format: 3D models](https://github.com/zoonk/zoonk/issues/143)
 - [ ] [Format: Variables](https://github.com/zoonk/zoonk/issues/124)
-- [ ] [Format: Fill-in the blank](https://github.com/zoonk/zoonk/issues/142)
-- [ ] [Format: Drag and drop](https://github.com/zoonk/zoonk/issues/141)
 - [ ] [Format: Speech recognition](https://github.com/zoonk/zoonk/issues/148)
 - [ ] [Lesson: Questions](https://github.com/zoonk/zoonk/issues/147)
 - [ ] [JSON export](https://github.com/zoonk/zoonk/issues/40)
