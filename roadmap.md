@@ -57,6 +57,8 @@ This is an overview of the main features and products we have planned. We'll wor
 - [ ] Content Library: National Curriculum (UK)
 - [ ] Content Library: Common Core State Standards (US)
 - [ ] Content Library: Advanced Placement (US)
+- [ ] Editor: Version control
+- [ ] Editor: Collaboration
 
 ## Products
 
