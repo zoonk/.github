@@ -14,7 +14,7 @@ This is an overview of the main features and products we have planned. We'll wor
 - [x] Format: Read-only
 - [x] Format: Image
 - [x] Format: Open-ended question
-- [ ] [Format: YouTube embed](https://github.com/zoonk/zoonk/issues/139)
+- [x] [Format: YouTube embed](https://github.com/zoonk/zoonk/issues/139)
 - [ ] [Format: Fill in the blank](https://github.com/zoonk/zoonk/issues/142)
 - [ ] [Format: Drag and drop](https://github.com/zoonk/zoonk/issues/141)
 - [ ] [Format: Word Search](https://github.com/zoonk/zoonk/issues/161)
