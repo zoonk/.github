@@ -6,7 +6,7 @@ At the moment, I'm working solo on this, trying to bootstrap it as much as I can
 
 ## Contributing
 
-The project is completely open-source and transparent, all contributions are welcome and all communication is done on GitHub. Feel free to check out the org's profile, especially the [how we work section](https://github.com/zoonk#-how-we-work).
+The project is completely open-source and transparent, all contributions are welcome and all communication is done on GitHub. Feel free to check out the org's profile, especially the [how we work section](https://github.com/zoonk/.github/blob/main/how-we-work/communication.md).
 
 All information about the project is there. If you didn't find an answer for your question, ask it on the [community forum](https://github.com/orgs/zoonk/discussions).
 
