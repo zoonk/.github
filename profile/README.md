@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zoonk/.github/assets/4393133/3a24c5e9-dc8e-4491-9aeb-95dd6f7283c8">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/zoonk/.github/assets/4393133/ddbb2208-feac-4a58-adac-f769cff4dc7f">
-  <img alt="Zoonk Banner" src="https://github.com/zoonk/.github/assets/4393133/ddbb2208-feac-4a58-adac-f769cff4dc7f">
+  <img alt="Zoonk logo (a smiley brain) on the first line. Then, below, it says 'open-source solutions for education'" src="https://github.com/zoonk/.github/assets/4393133/ddbb2208-feac-4a58-adac-f769cff4dc7f">
 </picture>
 
 <p align="center">
