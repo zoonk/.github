@@ -10,6 +10,7 @@ You can help fund a specific project on [GitHub Sponsors](http://github.com/spon
 |-|-|
 |[Zoonk Cloud](https://github.com/orgs/zoonk/projects/14/views/1?pane=info)|Run Zoonk on the cloud. We'll be able to create a white-label Duolingo without technical knowledge.|
 |[UX & Accessibility Review v1](https://github.com/orgs/zoonk/projects/15/views/1?pane=info)|UX and accessibility improvements to make the app easier to use.|
+|[Authentication v2](https://github.com/orgs/zoonk/projects/17?pane=info)|OAuth and passkey support. Initial work for enterprise features.|
 |[Editor v2](https://github.com/orgs/zoonk/projects/18/views/1?pane=info)|Step by step (wizard) editor, import/export courses, audio and video upload.|
 |[Zoonk School v1](https://github.com/orgs/zoonk/projects/19?pane=info)|Zoonk's online school. First courses: SAT/ENEM prep|
 
