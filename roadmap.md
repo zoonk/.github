@@ -9,5 +9,6 @@ You can help fund a specific project on [GitHub Sponsors](http://github.com/spon
 |Name|Description|Details|
 |-|-|-|
 |[Zoonk Cloud](https://github.com/orgs/zoonk/projects/14/views/1?pane=info)|Run Zoonk on the cloud. We'll be able to create a white-label Duolingo without technical knowledge.|[Progress](https://github.com/orgs/zoonk/projects/14/views/1)|
+|[UX & Accessibility Review v1](https://github.com/orgs/zoonk/projects/15/views/1?pane=info)|UX and accessibility improvements to make the app easier to use.|[Progress](https://github.com/orgs/zoonk/projects/15/views/1)|
 
 - See [completed projects](https://github.com/orgs/zoonk/projects?query=is%3Aclosed).
