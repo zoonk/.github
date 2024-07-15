@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zoonk/.github/assets/4393133/3a24c5e9-dc8e-4491-9aeb-95dd6f7283c8">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/zoonk/.github/assets/4393133/ddbb2208-feac-4a58-adac-f769cff4dc7f">
-  <img alt="Zoonk logo (a smiley brain) on the first line. Then, below, it says 'open-source solutions for education'" src="https://github.com/zoonk/.github/assets/4393133/ddbb2208-feac-4a58-adac-f769cff4dc7f">
+  <img alt="Zoonk logo (a smiley brain) on the first line. Bwlow it says 'open-source solutions for education'" src="https://github.com/zoonk/.github/assets/4393133/ddbb2208-feac-4a58-adac-f769cff4dc7f">
 </picture>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 🌐 Open-source
 
-- [Zoonk](https://github.com/zoonk/zoonk): Open-source platform to create interactive courses like Duolingo.
+- [Zoonk](https://github.com/zoonk/zoonk): Open-source platform for creating interactive courses like Duolingo.
 
 ## 🌍 How we work
 
@@ -34,6 +34,6 @@ We're remote-only. This means we don't have offices and use primarily [asynchron
 
 ## 🌟 Sponsors
 
-We don't have any sponsors yet. Add your brand here by [sponsoring our project](https://github.com/sponsors/wceolin).
+We don't have any sponsors yet. Add your brand here by [sponsoring our project](https://github.com/sponsors/wceolin) with $500+ per month. You'll get your money back as credits to use in our paid products.
 
 - [See all sponsors and supporters](https://github.com/zoonk/zoonk#sponsors)
