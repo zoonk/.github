@@ -34,6 +34,6 @@ We're remote-only. This means we don't have offices and use primarily [asynchron
 
 ## 🌟 Sponsors
 
-We don't have any sponsors yet. Add your brand here by [sponsoring our project](https://github.com/sponsors/wceolin) with $500+ per month. You'll get your money back as credits to use in our paid products.
+We don't have any sponsors yet. Add your brand here by [sponsoring our project](https://github.com/sponsors/wceolin) with $500+ per month. You'll get your money back as credits to use in our paid products. We don't have investors, your sponsorship will help to speed up [our roadmap](https://github.com/zoonk/.github/blob/main/roadmap.md).
 
 - [See all sponsors and supporters](https://github.com/zoonk/zoonk#sponsors)
