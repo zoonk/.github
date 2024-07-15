@@ -4,6 +4,8 @@ Everything we do is open and transparent. That's one of the reasons we use **asy
 
 Since we all work remotely, being asynchronous is also a way to respect each other's time. We don't want to interrupt each other with messages that can wait.
 
+Plus, being asynchronous ensures we're always documenting our progress. This pays off in the long term because it creates a reliable record of decisions and progress, which can be referenced for future projects, troubleshooting, and onboarding new team members.
+
 ## How to ask questions, suggest features, etc.
 
 All communication happens on [GitHub Discussions](https://github.com/orgs/zoonk/discussions). Create a "new discussion" and choose the appropriate category. Examples of things you should post on GitHub Discussions:
