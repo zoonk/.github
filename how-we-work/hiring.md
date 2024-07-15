@@ -2,7 +2,7 @@
 
 ## Hiring
 
-At the moment, [I'm](https://github.com/wceolin) working solo on this project, trying to bootstrap it as much as I can. Therefore, I don't have any budget for hiring.
+At the moment, [I'm](https://github.com/wceolin) working solo on this project, trying to bootstrap it as much as I can. Therefore, I don't have any budget for hiring. [Learn more about Zoonk finances](../finances/README.md) and our [compension model](../finances/compensation.md) once we start hiring.
 
 ## Contributing
 
