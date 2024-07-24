@@ -1,8 +1,21 @@
 # Zoonk Roadmap
 
-These are the projects we're planning to work on. They're ordered by priority but priorities can change due to feedback we get from users and/or financial situation.
+Our roadmap involves tasks we need to do to achieve our [long-term goals](./profile/about.md#long-term-goal). Initially, we plan to build a platform for creating interactive courses like [Duolingo](https://www.duolingo.com/) and [Brilliant](https://brilliant.org/). A paid cloud version will provide revenue to fund further development.
+
+Below you can find the projects we're planning to work on. They're ordered by priority but priorities can change due to feedback we get from users and/or financial situation.
 
 You can help fund a specific project on [GitHub Sponsors](http://github.com/sponsors/wceolin). After making your contribution, send an email to will@zoonk.org to let me know what project(s) you'd like to have prioritized. Projects that raise more funding from contributors will be developed first.
+
+## Roadmap summary
+
+This is an overview of where we want to go, lots of tasks/projects will happen in between.
+
+1. Launch a paid cloud product for schools and enterprises.
+2. Use funds to develop the open-source project.
+3. Create a content library for existing curricula (e.g., [Common Core Standards](https://en.wikipedia.org/wiki/Common_Core_State_Standards), [AP](https://en.wikipedia.org/wiki/Advanced_Placement), etc.).
+4. Create a free online STEAM school.
+5. Develop a hands-on game like No Man's Sky for learning.
+6. Establish physical STEAM schools in low-income neighborhoods globally.
 
 ## Projects
 

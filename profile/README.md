@@ -26,6 +26,8 @@
 - [Mission, vision, and values](https://github.com/zoonk/.github/blob/main/profile/about.md)
 - [Hiring, contributing and partnerships](https://github.com/zoonk/.github/blob/main/how-we-work/hiring.md)
 - [Communication](https://github.com/zoonk/.github/blob/main/how-we-work/communication.md)
+- [Design](https://github.com/zoonk/.github/blob/main/design/README.md)
+- [Sales](https://github.com/zoonk/.github/blob/main/sales/README.md)
 - [Finances](https://github.com/zoonk/.github/blob/main/finances/README.md)
 
 We're remote-only. This means we don't have offices and use primarily [asynchronous communication](https://github.com/zoonk/.github/blob/main/how-we-work/communication.md).

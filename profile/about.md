@@ -15,6 +15,16 @@ By improving how we learn, we want to empower a new generation of problem-solver
 
 **If we can fix education, then we can fix everything else.**
 
+### Short-term goal
+
+Make learning fun, practical, more hands-on, interactive. Show how things work in the real world.
+
+### Long-term goal
+
+Zoonk's long-term goal is to make learning complex subjects like Einstein's Theory of Relativity as easy as playing a video game. Eventually, we want to develop a game like [No Man's Sky](https://www.nomanssky.com/) but focused on learning by solving real-world problems.
+
+See our [roadmap](../roadmap.md) to understand how we plan to achieve this.
+
 ## Mission
 
 Provide high-quality, hands-on, and affordable education to every single person on Earth.
