@@ -22,4 +22,4 @@ Following our commitment to openness and transparency, all Zoonk finances (reven
 
 ## Investing
 
-We're not actively looking for investors, but we're open to discussing deals as long as you're aligned with how we want to run this company. See the [finances](./finances.md) and [compensation](./compensation.md) pages for more details. It's also good to have a look at [how we work](../how-we-work/README.md) and our [mission and values](https://zoonk.org/en/about). If you're still interested in becoming an investor after reading this, please reach out to will@zoonk.org.
+We're not actively looking for investors, but we're open to discussing deals as long as you're aligned with how we want to run this company. See [our values](../profile/about.md), [compensation](./compensation.md) and [how we work](../how-we-work/README.md) pages for more details. If you're still interested in becoming an investor after reading this, please reach out to will@zoonk.org.

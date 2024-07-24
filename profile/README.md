@@ -23,7 +23,7 @@
 
 ## 🌍 How we work
 
-- [Mission, vision, and values](https://zoonk.org/en/about)
+- [Mission, vision, and values](https://github.com/zoonk/.github/blob/main/profile/about.md)
 - [Hiring, contributing and partnerships](https://github.com/zoonk/.github/blob/main/how-we-work/hiring.md)
 - [Communication](https://github.com/zoonk/.github/blob/main/how-we-work/communication.md)
 - [Finances](https://github.com/zoonk/.github/blob/main/finances/README.md)
