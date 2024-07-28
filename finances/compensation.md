@@ -30,7 +30,7 @@ Our goal is to pay **$120k/year (USD)** to every employee. This isn't super high
 
 ## Working Hours
 
-Our goal is to have employees work **20 hours/week**. [Working longer hours can make people less productive](https://theweek.com/articles/696644/why-should-work-4-hours-day-according-science). We believe most of the 40 hours people usually spend in traditional workplaces are due to unnecessary work and workplace politics. By focusing on what matters, having [asynchronous communication](../how-we-work/communication.md), and minimizing meetings, 20 hours is more than enough to do great work.
+Our goal is to run an experiment where employees work **20 hours/week** because [working longer hours can make people less productive](https://theweek.com/articles/696644/why-should-work-4-hours-day-according-science). We believe most of the 40 hours people usually spend in traditional workplaces are due to unnecessary work and workplace politics. By focusing on what matters, having [asynchronous communication](../how-we-work/communication.md), and minimizing meetings, 20 hours should be enough to do great work. This experiment may end if it does not work out or we do not have a good financial situation that allows us to keep it going.
 
 ## Paid Time Off
 
@@ -75,7 +75,7 @@ We'll start sharing profits after we reach **$1 million (USD) in annual profit**
 
 ## Equity
 
-Equity awards given to employees or sold to investors are diluted from the [founder](https://github.com/wceolin). If the founder no longer has equity, then it's diluted from the total equity pool. We distribute equity to all employees. It's not options; they don't need to pay anything to get it. The only requirement is to stay at least 1 year at the company as a full-time employee (20 hours/week). See below how equity distribution works:
+Equity awards given to employees or sold to investors are diluted from the [founder](https://github.com/wceolin). If the founder no longer has equity, then it's diluted from the total equity pool. We distribute equity to all employees. It's not options; they don't need to pay anything to get it. The only requirement is to stay at least 1 year at the company as a full-time employee. See below how equity distribution works:
 
 | Employee number | Yearly distribution | Maximum equity |
 | --------------- | ------------------- | -------------- |
