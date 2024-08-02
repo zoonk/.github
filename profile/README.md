@@ -29,6 +29,7 @@
 - [Design](https://github.com/zoonk/.github/blob/main/design/README.md)
 - [Sales](https://github.com/zoonk/.github/blob/main/sales/README.md)
 - [Product analytics](../analytics/README.md)
+- [Contributing](../contributing/README.md)
 - [Finances](https://github.com/zoonk/.github/blob/main/finances/README.md)
 
 We're remote-only. This means we don't have offices and use primarily [asynchronous communication](https://github.com/zoonk/.github/blob/main/how-we-work/communication.md).
