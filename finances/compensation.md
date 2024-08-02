@@ -20,7 +20,7 @@ We value collaboration over competition in our compensation model. We think ever
 
 We don't have investors and, at the moment, we're not planning to raise venture capital because it's really hard to find investors aligned to the kind of company we're trying to build here. Therefore, we'll only hire once we have enough revenue to do so.
 
-**Hiring Threshold**: We'll hire employees after we reach **$500k (USD) in profits**.
+**Hiring Threshold**: We'll hire employees after we reach **$500k (USD) in net income**.
 
 ## Salary Goal
 
@@ -61,11 +61,11 @@ There are no limits for sick leave. Take as much as you need. You don't need a d
 
 ## Salary Raises
 
-We'll start giving salary raises after we reach **$1 million (USD) in annual profit**. Raises will happen every year in February and they will be the **average world inflation rate + 2%**.
+We'll start giving salary raises after we reach **$1 million (USD) in annual net income**. Raises will happen every year in February and they will be the **average world inflation rate + 2%**.
 
 ## Profit Sharing
 
-We'll start sharing profits after we reach **$1 million (USD) in annual profit**. This is how profits will be distributed:
+We'll start sharing profits after we reach **$1 million (USD) in annual net income**. This is how profits will be distributed:
 
 - **50%** will be reinvested in the company
 - **20%** for employees
