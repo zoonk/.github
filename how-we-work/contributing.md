@@ -1,5 +1,7 @@
 # Contributing
 
+This project is completely open-source and transparent. All contributions are welcome, and all communication is done on GitHub. Feel free to check out the [org's profile](https://github.com/zoonk), especially the [communication](./communication.md) section.
+
 Things aren't very well organized as we work towards v1. The main things we need help with are:
 
 - Testing

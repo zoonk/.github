@@ -2,7 +2,7 @@
 
 Despite being open-source, Zoonk is a for-profit business incorporated in Brazil. The company was incorporated in 2021 but it didn't become active until September 10, 2023, when [@wceolin](https://github.com/wceolin) wrote the [first commit for this project](https://github.com/zoonk/zoonk/commit/e9761ce7227531187a57fdb33a0eec3bf47bc702). The [first version was released one month later](https://github.com/zoonk/zoonk/releases/tag/v0.1.0-alpha). All finances are in Brazilian Real (BRL).
 
-Following our commitment to openness and transparency, all Zoonk finances (income and expenses) are available on GitHub, as well as our [compensation model](./compensation.md).
+Following our commitment to openness and transparency, all Zoonk finances (income and expenses) are available on GitHub.
 
 - [Employees and Salaries](./employees.md)
 - [Shareholders](./shareholders.md)
@@ -23,4 +23,4 @@ Following our commitment to openness and transparency, all Zoonk finances (incom
 
 ## Investing
 
-We're not actively looking for investors, but we're open to discussing deals as long as you're aligned with how we want to run this company. See [our values](../profile/about.md), [compensation](./compensation.md) and [how we work](../how-we-work/README.md) pages for more details. If you're still interested in becoming an investor after reading this, please reach out to will@zoonk.org or [schedule a call](https://cal.com/zoonk/will).
+We're not actively looking for investors, but we're open to discussing deals as long as you're aligned with how we want to run this company. See [our values](../profile/about.md) and [how we work](../how-we-work/README.md) pages for more details. If you're still interested in becoming an investor after reading this, please reach out to will@zoonk.org or [schedule a call](https://cal.com/zoonk/will).
