@@ -1,2 +1,1 @@
-# .github
-Zoonk's GitHub profile
+[[ GO TO PROFILE ]](./profile/README.md)
