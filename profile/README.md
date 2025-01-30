@@ -7,3 +7,9 @@
 <p align="center">
   We're an open-source learning platform, combining AI and interactive exercises to make education more engaging and practical. Our goal is to help anyone learn anything—whether for personal growth, schools, or corporate training.
 </p>
+
+<p align="center">
+  <a href="https://forms.gle/ZrYYBA2sjKfQR3Es8">Waitlist</a>
+  .
+  <a href="https://github.com/sponsors/ceolinwill?frequency=one-time">Lifetime Access (Limited Offer)</a>
+</p>
