@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e5166097-97a5-41c7-b53c-c1e50bdb5314">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/bf83089b-50d8-4914-a10a-8eda541a59f3">
-  <img alt="Zoonk logo (a smiley brain) on the first line. Below it says 'learn anything with interactive courses'" src="https://github.com/user-attachments/assets/bf83089b-50d8-4914-a10a-8eda541a59f3">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/805f8ad4-9ba5-4586-bf58-379aac9a5759">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/36a8ce4b-e13e-496e-8c07-856cbaa4e37a">
+  <img alt="Zoonk logo (a smiley brain) on the first line. Below it says 'learn anything with interactive courses'" src="https://github.com/user-attachments/assets/36a8ce4b-e13e-496e-8c07-856cbaa4e37a">
 </picture>
 
 <p align="center">
