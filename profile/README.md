@@ -43,3 +43,8 @@ We build Zoonk based on these values:
 ## 🚀 Where We’re Headed
 
 We want to accelerate progress by making learning better for everyone. That means building the best tools to help you learn anything—fast, easy, and fun. One day, even complex topics like general relativity should feel as intuitive and engaging as playing a video game.
+
+## Resources
+
+- [Design](https://github.com/zoonk/design): Design resources for our products and marketing materials.
+- [Social Media](https://github.com/zoonk/social-media): Our social media hub: profiles, resources, strategies, and posts.
