@@ -10,6 +10,8 @@
 
 <p align="center">
   <a href="https://forms.gle/jHeTqPUkw1vA7wLh8">Waitlist</a>
+  .
+   <a href="https://github.com/orgs/zoonk/discussions/176">Long-term vision</a>
 </p>
 
 ## 🌍 Why We Are Building This
