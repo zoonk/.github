@@ -28,17 +28,6 @@ We want a world where knowledge is accessible. A world where more people have th
 
 Education can change the world. But first, we need to change education.
 
-## 🧠 What We Are Building
-
-We’re creating a platform where:
-
-- You can learn anything, fast and easily.
-- Learning adapts to your interests.
-- Practical exercises connect knowledge to real life.
-- Everything is explained in clear, simple language.
-- You gain real skills to solve real problems.
-- You’ll connect with opportunities and ambitious people tackling the world’s biggest challenges. (Coming in 2026)
-
 ## 🔧 How We Work
 
 We build Zoonk based on these values:
@@ -52,7 +41,7 @@ We build Zoonk based on these values:
 
 ## 🚀 Where We’re Headed
 
-We want to accelerate progress by making learning better for everyone. This means building the best tools to help you learn anything—fast, easy, and fun. One day, learning even complex topics like general relativity should feel as easy and fun as playing a video game.
+We want to accelerate progress by making learning better for everyone. This means building the best tools to help you learn anything—fast, easy, and fun. One day, learning even complex topics like general relativity should feel as easy and fun as playing a video game. Read our [long-term vision for education](https://github.com/orgs/zoonk/discussions/176).
 
 ## Resources
 
