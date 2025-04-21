@@ -42,8 +42,8 @@ We’re still early stage, so not all types of partnerships are useful right now
 
 Maybe. We’re open to contributions in:
 
-- **Design**, especially around branding or UI/UX.
-- **Marketing**, but be specific: what you’re suggesting, why it matters, and what you expect the outcome to be. For example: social media posts, campaign ideas, video content, or general strategies.
+- **Design**, especially around branding or UI/UX. Check out our [design](https://github.com/zoonk/design) repository and [start a discussion](https://github.com/zoonk/design/discussions/new/choose) for ideas/suggestions.
+- **Marketing**, but be specific: what you’re suggesting, why it matters, and what you expect the outcome to be. For example: social media posts, campaign ideas, video content, or general strategies. Check out our [marketing](https://github.com/zoonk/marketing) repository and [start a discussion](https://github.com/zoonk/marketing/discussions/new/choose) for ideas/suggestions.
 
 All suggestions must be made publicly in our [GitHub Discussions](https://github.com/orgs/zoonk/discussions) and include clear tasks or deliverables.
 
