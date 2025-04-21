@@ -47,5 +47,6 @@ We want to accelerate progress by making learning better for everyone. This mean
 
 ## Resources
 
+- [How We Work](https://github.com/zoonk/.github/blob/main/profile/how-we-work.md)
 - [Design](https://github.com/zoonk/design): Design resources for our products and marketing materials.
-- [Social Media](https://github.com/zoonk/social-media): Our social media hub: profiles, resources, strategies, and posts.
+- [Marketing](https://github.com/zoonk/marketing): Our marketing hub: social media profiles, resources, strategies, and content.
