@@ -59,4 +59,4 @@ Not right now but feel free to reach out if you’re interested in working with 
 
 ### How to Get Updates?
 
-The best way is to follow us [here on GitHub](https://github.com/zoonk) or on [social media](https://zoonk.com/zoonk/marketing).
+The best way is to follow us [here on GitHub](https://github.com/zoonk) or on [social media](https://github.com/zoonk/marketing).
