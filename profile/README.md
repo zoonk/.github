@@ -41,6 +41,8 @@ We build Zoonk based on these values:
 - **Growth**: Mistakes fuel learning. We take risks, adapt fast, and stay humble, knowing there’s always more to learn.
 - **Inclusion**: Great products come from diverse teams. Different perspectives lead to better solutions. Every voice matters—we make sure everyone is heard, respected, and included.
 
+[Learn more about how we work](https://github.com/zoonk/.github/blob/main/profile/how-we-work.md).
+
 ## 🚀 Where We’re Headed
 
 We want to accelerate progress by making learning better for everyone. This means building the best tools to help you learn anything—fast, easy, and fun. One day, learning even complex topics like general relativity should feel as easy and fun as playing a video game. Read our [long-term vision for education](https://github.com/orgs/zoonk/discussions/176).
