@@ -18,14 +18,14 @@ AI is changing how we live and work. To thrive, people need tools that make lear
 
 ## 🔧 How We Work
 
-We build Zoonk based on these values:
+We build Zoonk around these values:
 
-- **Care**: We care about what we build, who we build it for, and the problems we solve. Quality over quantity—it’s not about having the most features, but the best ones.
-- **Transparency**: No secrets, no hidden agendas. We’re open, honest, and direct about everything.
-- **Ownership**: We take responsibility. If something goes wrong, we own it, learn, and fix it. We’re proactive—improving things without waiting for permission.
-- **Sharing**: Everything we build is open-source. Collaboration beats competition—everyone contributing is part of the team.
-- **Growth**: Mistakes fuel learning. We take risks, adapt fast, and stay humble, knowing there’s always more to learn.
-- **Inclusion**: Great products come from diverse teams. Different perspectives lead to better solutions. Every voice matters—we make sure everyone is heard, respected, and included.
+- **Care**: Focus on solving real problems with quality, not feature bloat.
+- **Transparency**: Open and honest in how we work and decide.
+- **Ownership**: Take responsibility, fix problems fast, no blame culture.
+- **Sharing**: Open-source by default. Collaboration over competition.
+- **Growth**: Mistakes are part of learning. We adapt quickly and stay humble.
+- **Inclusion**: Diverse perspectives lead to better solutions. Every voice counts.
 
 [Learn more about how we work](https://github.com/zoonk/.github/blob/main/profile/how-we-work.md).
 
