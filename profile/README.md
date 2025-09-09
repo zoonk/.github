@@ -14,19 +14,7 @@
 
 ## 🌍 Why We Are Building This
 
-Society is changing fast. AI is reshaping how we live and work. To keep up, people need scientific literacy, critical thinking, and a lifelong drive to learn. Education must be fun, practical, and engaging—so everyone can adapt and thrive in a world that never stops evolving.
-
-Some are told that becoming a scientist, an engineer, or an astronaut is impossible. That those paths are not for someone working double shifts, coming home exhausted, raising two kids.
-
-Of course, it’s harder. But that’s exactly why we need better tools—tools that make learning easier, faster, more fun.
-
-That’s why we’re building Zoonk. For those who have been told it’s too late. For those who, deep down, still believe in their childhood dreams—before they were told to accept reality as it is.
-
-Because **we believe anyone can learn anything. Anyone can do anything.** And when you realize that, everything changes.
-
-We want a world where knowledge is accessible. A world where more people have the chance to push boundaries, make discoveries, and drive change. A world where more people have the power to tackle humanity’s greatest challenges.
-
-Education can change the world. But first, we need to change education.
+AI is changing how we live and work. To thrive, people need tools that make learning easier, faster, and more fun. That’s why we’re building Zoonk, because anyone can learn anything and knowledge should be accessible to everyone.
 
 ## 🔧 How We Work
 
