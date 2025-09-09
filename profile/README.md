@@ -5,13 +5,11 @@
 </picture>
 
 <p align="center">
-  We're an open-source learning platform, combining AI and interactive exercises to make education more engaging and practical. Our goal is to help anyone learn anything—whether for personal growth, schools, or corporate training.
+  Open-source learning platform using AI and interactive exercises to help anyone learn anything.
 </p>
 
 <p align="center">
   <a href="https://forms.gle/jHeTqPUkw1vA7wLh8">Waitlist</a>
-  .
-   <a href="https://github.com/orgs/zoonk/discussions/176">Long-term vision</a>
 </p>
 
 ## 🌍 Why We Are Building This
