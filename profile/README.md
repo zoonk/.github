@@ -27,14 +27,11 @@ We build Zoonk around these values:
 - **Growth**: Mistakes are part of learning. We adapt quickly and stay humble.
 - **Inclusion**: Diverse perspectives lead to better solutions. Every voice counts.
 
-[Learn more about how we work](https://github.com/zoonk/.github/blob/main/profile/how-we-work.md).
-
 ## 🚀 Where We’re Headed
 
 We’re starting with AI and basic interactive exercises to make learning easier and more engaging. Over time, we want Zoonk to evolve into an immersive experience where you can learn anything by solving real problems, like playing in a game world.
 
 ## Resources
 
-- [How We Work](https://github.com/zoonk/.github/blob/main/profile/how-we-work.md)
 - [Design](https://github.com/zoonk/design): Design resources for our products and marketing materials.
 - [Marketing](https://github.com/zoonk/marketing): Our marketing hub: social media profiles, resources, strategies, and content.
