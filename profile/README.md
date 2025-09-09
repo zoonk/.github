@@ -14,7 +14,7 @@
 
 ## 🌍 Why We Are Building This
 
-AI is changing how we live and work. To thrive, people need tools that make learning easier, faster, and more fun. That’s why we’re building Zoonk, because anyone can learn anything and knowledge should be accessible to everyone.
+AI is changing how we live and work. To thrive, people need tools that make learning easier, faster, more practical, and more fun. That’s why we’re building Zoonk, to help people apply what they learn to real problems because **anyone can learn anything** and knowledge should be accessible to everyone.
 
 ## 🔧 How We Work
 
