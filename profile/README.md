@@ -31,7 +31,7 @@ We build Zoonk around these values:
 
 ## 🚀 Where We’re Headed
 
-We want to accelerate progress by making learning better for everyone. This means building the best tools to help you learn anything—fast, easy, and fun. One day, learning even complex topics like general relativity should feel as easy and fun as playing a video game. Read our [long-term vision for education](https://github.com/orgs/zoonk/discussions/176).
+We’re starting with AI and basic interactive exercises to make learning easier and more engaging. Over time, we want Zoonk to evolve into an immersive experience where you can learn anything by solving real problems, like playing in a game world.
 
 ## Resources
 
