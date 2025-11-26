@@ -1,11 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/345ed7d9-40a8-4ebb-adf1-8f22cafa492d">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/8d018809-14b9-435b-9409-d515c599335d">
-  <img alt="Zoonk logo (a smiley brain) on the first line. Below it says 'learn anything with interactive courses'" src="https://github.com/user-attachments/assets/8d018809-14b9-435b-9409-d515c599335d">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/df56a63d-e046-4745-9924-a302ef40ea37">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/84dd27e8-5e2e-4d61-aa73-2c1cede2e4ca">
+  <img alt="Minimalist brain icon with a lightning bolt in the center next to the text learn. build. shape." src="https://github.com/user-attachments/assets/84dd27e8-5e2e-4d61-aa73-2c1cede2e4ca">
 </picture>
 
 <p align="center">
-  Open-source learning platform using AI and interactive exercises to help anyone learn anything.
+  Learn the skills to build your ideas and shape the future.
 </p>
 
 <p align="center">
@@ -14,19 +14,20 @@
 
 ## Why We Are Building This
 
-AI is changing how we live and work. To thrive, people need tools that make learning easier, faster, more practical, and more fun. That’s why we’re building Zoonk, to help people apply what they learn to real problems because **anyone can learn anything** and knowledge should be accessible to everyone.
+AI already helps you learn fast. The real gap is knowing what to learn, in which order, and how everything fits together. Zoonk gives you structure. We guide you step by step, help you see what you don’t know yet, and connect the dots so you can turn knowledge into real progress. Our goal is to make learning simple, practical, and connected to your reality.
+
+We believe anyone can learn and build anything.
 
 ## How We Work
 
-We build Zoonk around these values:
+We build Zoonk with a few core principles:
 
-- **Care**: Focus on solving real problems with quality, not feature bloat.
-- **Transparency**: Open and honest in how we work and decide.
-- **Ownership**: Take responsibility, fix problems fast, no blame culture.
-- **Sharing**: Open-source by default. Collaboration over competition.
-- **Growth**: Mistakes are part of learning. We adapt quickly and stay humble.
-- **Inclusion**: Diverse perspectives lead to better solutions. Every voice counts.
+- **Care**: We obsess over quality. Every detail matters. Talk to people, feel their pain and fix it.
+- **Openness**: We build in public. Open-source is our default because collaboration accelerates innovation.
+- **Agency**: We take ownership. We identify problems and fix them fast, no blame culture.
+- **Growth**: Mistakes drive progress. Learn, adapt, move on. Stay humble.
+- **Inclusion**: We build for everyone. Diverse perspectives create stronger solutions.
 
 ## Where We’re Headed
 
-We’re starting with AI and basic interactive exercises to make learning easier and more engaging. Over time, we want Zoonk to evolve into the go-to place for career and professional development, giving people are the tools they need to build the future.
+We’re starting with an app where you can learn anything with small, interactive activities. Long term, we want Zoonk to become the go-to place for professional and career development: where people go to learn something new, develop skills, find jobs, hire people, and connect with others to build the future together.
