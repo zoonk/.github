@@ -12,11 +12,11 @@
   <a href="https://forms.gle/jHeTqPUkw1vA7wLh8">Waitlist</a>
 </p>
 
-## 🌍 Why We Are Building This
+## Why We Are Building This
 
 AI is changing how we live and work. To thrive, people need tools that make learning easier, faster, more practical, and more fun. That’s why we’re building Zoonk, to help people apply what they learn to real problems because **anyone can learn anything** and knowledge should be accessible to everyone.
 
-## 🔧 How We Work
+## How We Work
 
 We build Zoonk around these values:
 
@@ -27,11 +27,6 @@ We build Zoonk around these values:
 - **Growth**: Mistakes are part of learning. We adapt quickly and stay humble.
 - **Inclusion**: Diverse perspectives lead to better solutions. Every voice counts.
 
-## 🚀 Where We’re Headed
+## Where We’re Headed
 
-We’re starting with AI and basic interactive exercises to make learning easier and more engaging. Over time, we want Zoonk to evolve into an immersive experience where you can learn anything by solving real problems, like playing in a game world.
-
-## Resources
-
-- [Design](https://github.com/zoonk/design): Design resources for our products and marketing materials.
-- [Marketing](https://github.com/zoonk/marketing): Our marketing hub: social media profiles, resources, strategies, and content.
+We’re starting with AI and basic interactive exercises to make learning easier and more engaging. Over time, we want Zoonk to evolve into the go-to place for career and professional development, giving people are the tools they need to build the future.
