@@ -30,4 +30,4 @@ We build Zoonk with a few core principles:
 
 ## Where We’re Headed
 
-We’re starting with an app where you can learn anything with short, interactive activities. Long term, we want Zoonk to become the go-to place for professional and career development: where people go to learn something new, develop skills, find jobs, hire people, and connect with others to build the future together.
+We’re starting with an app where you can learn anything with short interactive activities. Long term, we want Zoonk to become the go-to place for professional and career development: where people go to learn something new, develop skills, find jobs, hire people, and connect with others to build the future together.
