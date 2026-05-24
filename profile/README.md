@@ -8,13 +8,13 @@
   Learn the skills to build your ideas and shape the future.
 </p>
 
-<p align="center">
-  <a href="https://forms.gle/jHeTqPUkw1vA7wLh8">Waitlist</a>
-</p>
-
 ## Why We Are Building This
 
-AI already helps you learn fast. The real gap is knowing what to learn, in which order, and how everything fits together. Zoonk gives you structure. We guide you step by step, help you see what you don’t know yet, and connect the dots so you can turn knowledge into real progress. Our goal is to make learning simple, practical, and connected to your reality.
+Too many people grow up feeling like science, technology, and building things belong to someone else. Learning often feels boring, abstract, and disconnected from real life, especially outside privileged environments.
+
+Zoonk exists to change that.
+
+AI already makes it easier to learn fast, but speed is not enough. People still need structure, guidance, context, and confidence. Zoonk helps you learn step by step, practice with real-life examples, connect ideas to your reality, and turn knowledge into real progress.
 
 We believe anyone can learn and build anything.
 
@@ -30,4 +30,6 @@ We build Zoonk with a few core principles:
 
 ## Where We’re Headed
 
-We’re starting with an app where you can learn anything with short interactive activities. Long term, we want Zoonk to become the go-to place for professional and career development: where people go to learn something new, develop skills, find jobs, hire people, and connect with others to build the future together.
+We’re starting with an app where you can learn anything through short, interactive lessons built around practical examples and everyday language.
+
+Long term, we want Zoonk to become the go-to place for learning and career development: where people learn new skills, build profiles, find work, hire talent, start projects, and connect with others to shape the future together.
