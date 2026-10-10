@@ -1,35 +1,35 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/df56a63d-e046-4745-9924-a302ef40ea37">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/84dd27e8-5e2e-4d61-aa73-2c1cede2e4ca">
-  <img alt="Minimalist brain icon with a lightning bolt in the center next to the text learn. build. shape." src="https://github.com/user-attachments/assets/84dd27e8-5e2e-4d61-aa73-2c1cede2e4ca">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zoonk/.github/main/profile/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zoonk/.github/main/profile/banner-light.png">
+  <img alt="Zoonk logo next to the text: Turn your goal into a daily learning plan." src="https://raw.githubusercontent.com/zoonk/.github/main/profile/banner-light.png">
 </picture>
 
 <p align="center">
-  Learn the skills to build your ideas and shape the future.
+  <a href="https://www.zoonk.com">zoonk.com</a>
 </p>
 
-## Why We Are Building This
+## What We Do
 
-Too many people grow up feeling like science, technology, and building things belong to someone else. Learning often feels boring, abstract, and disconnected from real life, especially outside privileged environments.
+Tell Zoonk your goal in your own words: an exam, a new job, a move abroad, a class you're behind in, a business you want to grow. Zoonk plans every day until your date, with short lessons, practice and reviews shaped by that goal.
 
-Zoonk exists to change that.
+Open the app and today's session is ready. Reviews come back right before you'd forget, mistakes come back as practice, and you can always see what's still missing for your goal.
 
-AI already makes it easier to learn fast, but speed is not enough. People still need structure, guidance, context, and confidence. Zoonk helps you learn step by step, practice with real-life examples, connect ideas to your reality, and turn knowledge into real progress.
+## Why We're Building This
 
-We believe anyone can learn and build anything.
+Too many people grow up feeling that science, technology and building things belong to someone else. School feels far from real life, especially outside privileged places, and many people find out late, or never, that they can learn anything.
 
-## How We Work
+AI made answers easy to find, but answers aren't a plan. People still need to know what to learn, in what order, and how to keep going when life gets busy.
 
-We build Zoonk with a few core principles:
+Our goal is to end poverty by making sure everyone has the tools to reach their dreams and live a fulfilling life.
 
-- **Care**: We obsess over quality. Every detail matters. Talk to people, feel their pain and fix it.
-- **Openness**: We build in public. Open-source is our default because collaboration accelerates innovation.
-- **Agency**: We take ownership. We identify problems and fix them fast, no blame culture.
-- **Growth**: Mistakes drive progress. Learn, adapt, move on. Stay humble.
-- **Inclusion**: We build for everyone. Diverse perspectives create stronger solutions.
+## Where We're Headed
 
-## Where We’re Headed
+Learners come first, but we're building more than an app: an open-source operating system for education.
 
-We’re starting with an app where you can learn anything through short, interactive lessons built around practical examples and everyday language.
+- **Schools**: tools for managers to run them, more time for teachers, and better learning for students.
+- **Teams**: training that fits each person and their job.
+- **Creators**: sell courses and share what they know with interactive tools.
+- **Brands**: teach how their products work and build an audience.
+- **Job seekers**: get ready for a job and find one.
 
-Long term, we want Zoonk to become the go-to place for learning and career development: where people learn new skills, build profiles, find work, hire talent, start projects, and connect with others to shape the future together.
+And all of it should feel less like homework and more like a game you want to keep playing.
